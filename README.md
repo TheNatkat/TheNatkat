@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Akshit Singhal aka TheNatkat</h1>
+<h1 align="center">Hi 👋, I'm Akshit Singhal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m constantly working on **learning new technology**
