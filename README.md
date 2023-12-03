@@ -20,14 +20,3 @@
 - 📫 How to reach me **iamak.bizwork@gmail.com**
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1pTzmyOWCkOJeQ3RgN7dZGDmnAzginH7E/view?usp=sharing)
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thenatkat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
